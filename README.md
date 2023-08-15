@@ -13,6 +13,4 @@ Christopher Garcia
 
 <img
   src="/Users/christophergarcia/Documents/GitHub/MSADS-Capstone-CryptoCurrencyFraudDetection/Images/94C374C0-C61C-4079-9184-C7CA61C8470F.png"
-  alt="Alt text"
-  title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
