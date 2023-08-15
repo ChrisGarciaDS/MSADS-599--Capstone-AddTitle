@@ -11,4 +11,8 @@ Christopher Garcia
 
 ![My Image](/Images/94C374C0-C61C-4079-9184-C7CA61C8470F.png)
 
-<img src="94C374C0-C61C-4079-9184-C7CA61C8470F.png" alt="drawing" width="200"/>
+<img
+  src="/Users/christophergarcia/Documents/GitHub/MSADS-Capstone-CryptoCurrencyFraudDetection/Images/94C374C0-C61C-4079-9184-C7CA61C8470F.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
