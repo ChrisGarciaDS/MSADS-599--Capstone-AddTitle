@@ -7,6 +7,11 @@ This is a Capstone project for the University of San Diego's M.S. in Applied Dat
 
 Partners/Contributors/Authors:
 
+Christopher Garcia
+
+![My Image](/Images/chris.png)
+
+
 Annie Chan
 
 ![My Image](/Images/annieimage.jpg)
@@ -14,9 +19,5 @@ Annie Chan
 
 Minsu kim:
 
-![My Image](/Images/1565909561189.jpg)
+![My Image](/Images/minsu.jpg)
 
-
-Christopher Garcia
-
-![My Image](/Images/94C374C0-C61C-4079-9184-C7CA61C8470F.png)
