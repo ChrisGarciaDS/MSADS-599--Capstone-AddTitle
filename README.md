@@ -9,4 +9,6 @@ Partners/Contributors/Authors:
 
 Christopher Garcia
 
-![My Image](/Images/94C374C0-C61C-4079-9184-C7CA61C8470F.png, width="200")
+![My Image](/Images/94C374C0-C61C-4079-9184-C7CA61C8470F.png)
+
+<img src="94C374C0-C61C-4079-9184-C7CA61C8470F.png" alt="drawing" width="200"/>
