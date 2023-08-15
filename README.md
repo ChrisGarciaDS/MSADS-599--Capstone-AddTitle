@@ -41,6 +41,8 @@ Currency as well as having the ability to make a purchase is critical to a thriv
 
 In an effort to reduce cryptocurrency fraud, a variety of machine learning algorithms were utilized to test the hypothesis on whether using such advanced methods could enhance the security of cryptocurrency transactions. This section's primary focus was on the application of logistic regression, random forests, XGBoost, and support vector machines to detect fraudulent transactions. The results demonstrate the significant potential of using such advanced methods in enhancing security measures for cryptocurrencies. Table 6.1 shows the performance metrics for all trained models. Figure 7 shows the ROC curves and AUC values which underscore the model’s ability to distinguish between the fraudulent and regular transactions, even in the case of class imbalance. The findings provide evidence that leveraging advanced machine learning can enhance the security measures for cryptocurrency and protect users from fraudulent activities. The success of a machine learning approach in accurately detecting fraudulent transactions aligns closely with the hypothesis. 
 
+! ![My Image](/Images/classim.png)
+
 ![My Image](/Images/AUCCurve.png)
 
 
