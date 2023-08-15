@@ -18,5 +18,5 @@ Minsu kim:
 
 Annie Chan
 
-![My Image](/Images/Image from iOS.jpg)
+![My Image](/Images/annieimage.jpg)
 
