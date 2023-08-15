@@ -7,13 +7,13 @@ This is a Capstone project for the University of San Diego's M.S. in Applied Dat
 
 Partners/Contributors/Authors:
 
-[Christopher Garcia](https://github.com/ChrisGarciaDS) - 
+[Christopher Garcia](https://github.com/ChrisGarciaDS) 
 
 
 ![My Image](/Images/chris.png)
 
 
-[Annie Chan](https://github.com/Chanlaiieng12) - 
+[Annie Chan](https://github.com/Chanlaiieng12) 
 
 
 ![My Image](/Images/annieimage.jpg)
