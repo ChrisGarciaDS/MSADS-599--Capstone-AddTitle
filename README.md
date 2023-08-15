@@ -24,6 +24,16 @@ Partners/Contributors/Authors:
 
 ![My Image](/Images/minsu.jpg)
 
+## Table of Contents
+
+1. Abstract
+2. Business Background
+3. Problem
+4. Results
+5. Conclusion
+6. Future Remarks
+
+
 ## Astract
 
 Cryptocurrency has become a highly popular new method of online transactions in recent years. As with any other type of currency that increases in demand, so does the increase in scam. The goal of this project is to apply data science research techniques to and determine if using a machine learning model that can assist organizations in catching fraudulent transactions efficiently. The data collected was downloaded, balanced and scaled for use building machine learning models, utilizing Python programming. Among the models investigated, which are logistic regression, random forest, XGBoost and SVM (Support Vector Machine), SVM had the best performance of detecting fraud. F-1 score and ROC-AUC curve were used as the measure of performance. More data on cryptocurrencies, especially more recent data on fraudulent activities, will strengthen the model and will further help enhance the security of cryptocurrencies.
