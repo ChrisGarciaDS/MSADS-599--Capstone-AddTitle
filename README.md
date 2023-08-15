@@ -11,6 +11,12 @@ Christopher Garcia
 
 ![My Image](/Images/94C374C0-C61C-4079-9184-C7CA61C8470F.png)
 
-<img
-  src="/Users/christophergarcia/Documents/GitHub/MSADS-Capstone-CryptoCurrencyFraudDetection/Images/94C374C0-C61C-4079-9184-C7CA61C8470F.png"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+Minsu kim:
+
+![My Image](/Images/1565909561189.jpg)
+
+Annie Chan
+
+![My Image](/Images/Image from iOS.jpg)
+
