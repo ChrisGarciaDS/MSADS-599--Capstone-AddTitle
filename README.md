@@ -10,5 +10,5 @@ Partners/Contributors/Authors:
 Christopher Garcia
 
 
-![alt text](https://github.com//Users/christophergarcia/Documents/GitHub/MSADS-Capstone-CryptoCurrencyFraudDetection/Images/94C374C0-C61C-4079-9184-C7CA61C8470F.png?raw=true)
+![alt text](https://github.com/Users/christophergarcia/Documents/GitHub/MSADS-Capstone-CryptoCurrencyFraudDetection/Images/94C374C0-C61C-4079-9184-C7CA61C8470F.png?raw=true)
 
